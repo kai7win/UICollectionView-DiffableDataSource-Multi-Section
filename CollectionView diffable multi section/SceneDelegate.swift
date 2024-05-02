@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CollectionView diffable multi section
 //
-//  Created by Thomas on 2024/5/2.
+//  Created by Kai Chi Tsao on 2024/5/2.
 //
 
 import UIKit
